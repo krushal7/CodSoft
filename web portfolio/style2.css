@@ -1,0 +1,53 @@
+/* Your existing styles go here */
+
+/* Additions for Background Graphics */
+.about-background {
+    background-image: url('about-background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.skills-background {
+    background-image: url('skills-background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.projects-background {
+    background-image: url('projects-background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.testimonials-background {
+    background-image: url('testimonials-background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.contact-background {
+    background-image: url('contact-background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+/* Additional Styling for Graphics */
+.container {
+    position: relative;
+    z-index: 1;
+}
+
+.about-content {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* Add more custom styles for other sections as needed */
+

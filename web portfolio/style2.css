@@ -1,6 +1,4 @@
-/* Your existing styles go here */
 
-/* Additions for Background Graphics */
 .about-background {
     background-image: url('about-background.jpg');
     background-size: cover;
@@ -36,7 +34,7 @@
     color: #fff;
 }
 
-/* Additional Styling for Graphics */
+
 .container {
     position: relative;
     z-index: 1;
@@ -49,5 +47,4 @@
     text-align: center;
 }
 
-/* Add more custom styles for other sections as needed */
 
